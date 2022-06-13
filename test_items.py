@@ -1,4 +1,4 @@
-link = "http://selenium1py.pythonanywhere.com/"
+link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 
 def test_customer_should_see_add_to_basket_button_on_the_item_page(browser):
